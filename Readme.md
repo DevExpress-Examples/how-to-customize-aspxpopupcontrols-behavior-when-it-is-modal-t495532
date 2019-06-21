@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # How to customize ASPxPopupControl's behavior when it is modal
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t495532/)**
+<!-- run online end -->
 
 
 This example demonstrates the following capabilities of ASPxPopupControl when its popup window is used in modal mode
